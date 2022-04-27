@@ -10,7 +10,7 @@ Telegram File Renamer Bot
 </p>
 </p>
 
-## [How To Deploy](https://youtu.be/7ALYUk-rYMc)
+## [How To Deploy]()
 
 
 ## Configs 
@@ -36,7 +36,7 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/RENAMER_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrPsychoYT)
 
 ## License
 ````
@@ -49,10 +49,10 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/MoTech_YT">
+<a href="">
    <p> YouTube </p>
   </a>
 
