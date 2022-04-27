@@ -6,7 +6,7 @@
         "Mongo DB"
     ],
     "repository": "https://github.com/MrPsychoYT",
-    "success_url": "",
+    "success_url": "https://t.me/CinemaaKottaka",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MytelegramOrg_Bot",
