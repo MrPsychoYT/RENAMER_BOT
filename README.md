@@ -49,10 +49,10 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="">
+<a href="https://t.me/CinemaaKottaka">
    <p> Telegram </p>
   </a>
-<a href="">
+<a href="https://youtube.com/c/HipsterGaming">
    <p> YouTube </p>
   </a>
 
